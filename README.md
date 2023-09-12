@@ -1,5 +1,7 @@
 # symbol-vue
-
+## Url
+http://localhost:8080/#/table
+http://localhost:8080/
 ## Project setup
 ```
 yarn install
